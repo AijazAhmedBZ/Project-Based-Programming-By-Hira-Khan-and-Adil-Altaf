@@ -13,4 +13,4 @@ console.log("after creating variable", teacherName);
 var subject = "JavaScript";
 
 teacherName = "Alexender";
-console.log("after reassigning variable", teacherName);
+console.log("after going to the US", teacherName);
